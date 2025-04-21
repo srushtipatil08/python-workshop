@@ -1,1 +1,1 @@
-welcome frome workshop github repo
+welcome from workshop github repo
